@@ -1,8 +1,8 @@
-// To search a particular character in a string
+//Program To search a particular character in a string
 let data = "Letsupgrade";
 console.log(data.search("u"));
 
-// To covert minutes to seconds
+// Program To covert minutes to seconds
 Function convert(minutes){
     let result = minutes * 60;
     return result;
